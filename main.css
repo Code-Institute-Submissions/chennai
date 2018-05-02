@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css?family=Do+Hyeon:100,200,300,400,500,600,700,800|Roboto:100,200,300,400,500,600,700,800');
+body{
+    margin:0px;
+    padding: 0px;
+}
+
+/* .......................................................bg-color  */
+#bg-color-nav{
+    background-color: #0d0d0d;
+}
+#yaaru{
+    background-image: url("../images/cs.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#bg-color-over{
+    background-color: #0d0d0d;
+}
+#bg-color-footer{
+    background-color: #4d4d4d;
+}
+#bg-color-form{
+    background-color:#c2d6d6;
+}
+/* .......................................................Header  */
+.logo{
+    background:url("../images/CSK.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 280px;
+    transition: all .6s ease-in-out;
+    -o-transition: all .6s ease-in-out;
+    -moz-transition: all .6s ease-in-out;
+   -webkit-transition: all .6s ease-in-out;
+}
+.photos{
+    width:50%;
+}
+.nav  {
+    display:block;
+    color:#000000;
+    text-decoration:none;
+    font-family: 'Do+Hyeon',sans-serif;
+    font-weight: 300;
+}
+#ram{
+    float: right;
+    margin:0px;
+   display: block;
+}
+#main a{
+    font-family: 'Do+Hyeon',sans-serif;
+    font-weight: 300;
+    color: #ffffff;
+    text-decoration: none;
+    
+    
+}
+ .about{
+     font-family: "Roboto",sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    color:#000000;
+  }
+  
+.oops{
+    font-family: "Roboto",sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    color:#000000;
+}
+.love a{
+    display:block;
+    color:#b35900;
+    text-decoration: none;
+}
+#rep a{
+    font-family:'Do+Hyeon',sans-serif;
+    color:#cc0000;
+    text-decoration: none;
+}
+.ajith a{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    
+}
+.uppercase{
+    display: block;
+    text-align: center;
+    
+}
+
+
+/* ...........................................................Media queries*/
+@media (max-width: 768px) { 
+    #main a{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 300;
+    color: #ffffff;
+    text-decoration: none;
+    
+    
+}
+.hide{
+    display:none!important;
+}
+#frooti{
+    width:140px;
+}
+.incase{
+    font-size: 20px;
+}
+.photo{
+width:190px;
+    
+}
+.over-header{
+    display:none!important;
+}
+#ram{
+    float: left;
+    margin:0px;
+   display: block;
+    
+}
+.ajith a{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    
+}
+#bg-color-nav{
+    background-color: #4d004d;
+}
+
+#bg-color-over{
+    background-color: #1f4246;
+}
+
+}
