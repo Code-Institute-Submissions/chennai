@@ -9,7 +9,7 @@ body{
     background-color: #0d0d0d;
 }
 #yaaru{
-    background-image: url("../images/cs.jpg");
+    background-image: url("images/cs.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -25,7 +25,7 @@ body{
 }
 /* .......................................................Header  */
 .logo{
-    background:url("../images/CSK.png");
+    background:url("images/CSK.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
