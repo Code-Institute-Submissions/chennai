@@ -64,10 +64,27 @@ Most of the color scheme and some important place is using Id rather than classe
 #### Testing
 Browser/Test | Opera | Firefox | Chrome | Edge | Safari
  -----|-----|-----|-----|-----|-----
- Display|x|x|x|x|X
+Display|x|x|x|x|X
 Contact form|X|X|X|X|X
 All links|X|X|X|X|X
-Submit button|X|X|X|X|405 not allowed error
+Submit button|X|X|X|X|X 
+ but after Clicking submit button 405 not allowed It because I didn't  connected form to anything
+ 
+ #### Using Chrome's dev tools to test each page is displaying correctly at different screen widths (Portrait and Landscape modes have both been tested)
+
+Screen width/Page display|Galaxy S5|Pixel 2|Pixel 2XL|iPhone 5/SE|iPhone 6/7/8|iPhone 6/7/8 Plus|iPhone X|iPad|iPad Pro
+-----|-----|-----|-----|-----|-----|-----|-----|-----|-----
+index.html|X|X|X|X|X|X|X|X|X
+about.html|X|X|X|X|X|X|X|X|X
+Sponsor.html|X|X|X|X|X|X|X|X|X
+contact.html|X|X|X|X|X|X|X|X|X
+
+The project has been written in cloud9.
+For wireframe I used "lucidchart"
+My wireframe link file:///C:/Users/user/Downloads/Blank%20Diagram.pdf
+
+The site is now live at https://ramanathan03.github.io/chennai/
+
   
    
  
