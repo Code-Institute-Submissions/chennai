@@ -61,7 +61,13 @@ This sponsor page contain one of the supplied images which is being used as a sp
 The name, email and phone number are required fields but the date is not, acknowledging that the user may not have a specific date in mind yet.
 Most of the color scheme and some important place is using Id rather than classes to avoid their styles being unintentionally repeated elsewhere in the site.
          
-   
+#### Testing
+Browser/Test | Opera | Firefox | Chrome | Edge | Safari
+ -----|-----|-----|-----|-----|-----
+ Display|x|x|x|x|X
+Contact form|X|X|X|X|X
+All links|X|X|X|X|X
+Submit button|X|X|X|X|405 not allowed error
   
    
  
