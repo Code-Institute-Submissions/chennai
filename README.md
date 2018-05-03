@@ -68,7 +68,8 @@ Display|x|x|x|x|X
 Contact form|X|X|X|X|X
 All links|X|X|X|X|X
 Submit button|X|X|X|X|X 
- but after Clicking submit button 405 not allowed It because I didn't  connected form to anything
+ 
+###### But after Clicking submit button 405 not allowed It because I didn't  connected form to anything
  
  #### Using Chrome's dev tools to test each page is displaying correctly at different screen widths (Portrait and Landscape modes have both been tested)
 
