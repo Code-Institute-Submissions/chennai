@@ -14,12 +14,9 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
-#bg-color-over{
-    background-color: #0d0d0d;
-}
-#bg-color-footer{
-    background-color: #4d4d4d;
-}
+
+
+
 #bg-color-form{
     background-color:#c2d6d6;
 }
@@ -50,20 +47,36 @@ body{
     margin:0px;
    display: block;
 }
-#main a{
+.main a{
     font-family: 'Do+Hyeon',sans-serif;
     font-weight: 300;
     color: #ffffff;
     text-decoration: none;
+     
     
-    
+}
+.main{
+    background-color: #0d0d0d;
+}
+.try-again{
+    margin-top: 4px;
 }
  .about{
      font-family: "Roboto",sans-serif;
     font-size: 20px;
     font-weight: 300;
     color:#000000;
+    background-color: #4d4d4d;
   }
+.social {
+    margin: auto;
+}
+
+.social  a  i {
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+}
   
 .oops{
     font-family: "Roboto",sans-serif;
@@ -95,6 +108,15 @@ body{
     text-align: center;
     
 }
+.center-everything{
+    text-align: center;
+}
+.form{
+     margin: 0 auto;
+     max-width: 40%;
+    padding-bottom: 50px;
+   
+}
 
 
 /* ...........................................................Media queries*/
@@ -108,7 +130,7 @@ body{
     
 }
 .hide{
-    display:none!important;
+    display:none;
 }
 #frooti{
     width:140px;
