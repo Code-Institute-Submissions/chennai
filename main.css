@@ -33,7 +33,7 @@ body{
    -webkit-transition: all .6s ease-in-out;
 }
 .photos{
-    width:50%;
+    width: auto;
 }
 .nav  {
     display:block;
@@ -139,11 +139,12 @@ body{
     font-size: 20px;
 }
 .photo{
-width:190px;
+min-width:190px;
+max-width: 100%;
     
 }
 .over-header{
-    display:none!important;
+    display:none;
 }
 #ram{
     float: left;
